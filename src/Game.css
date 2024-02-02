@@ -1,0 +1,39 @@
+.post{
+    width:1400px;
+    background-color: black;
+    display: flex;
+    gap:20px;
+    margin-top: 592px;
+    margin-left: 60px;
+    padding-top:20px;
+   margin-bottom: 400px;
+   height: 500px;
+
+}
+
+.first{
+    width: 200px;
+    margin-left: 170px;
+}
+
+.p1{
+
+    color: white;
+    margin-left: 180px;
+    width: 215px;
+    height: 80px;
+}
+.para{
+    display: flex;
+}
+.p2{
+    color: white;
+    width: 215px;
+    height: 80px;
+    margin-left: 156px;
+}
+.p3{
+    color:white;
+    width:215px;
+    margin-left:150px;
+}

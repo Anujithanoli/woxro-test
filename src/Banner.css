@@ -1,0 +1,44 @@
+.ban1{
+    margin: auto;
+    width:1400px;
+    height: 100px;
+}
+.im{
+margin-left: 150px;
+    height: 500px;
+    width: 1000px;
+}
+
+.bann{
+    align-items: center;
+    background-color: black;
+}
+.pa{
+    text-align: center;
+    width: 100px;
+    background-color: black;
+    margin-top: -20px;
+}
+
+.te{
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+    width: 970px;
+    height: 400px;
+}
+.but11{
+background-color:black;
+margin-top:-19rem;
+margin-left: 600px;
+}
+
+.but1{
+    width: 200px;
+    height:30px;
+    margin-bottom:30px ;
+}
+
+.te{
+    color: white;
+}

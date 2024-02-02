@@ -1,0 +1,23 @@
+.cross{
+    color: black;
+}
+
+nav{
+    height: 150px;
+    margin: auto;
+    width:1400px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.head{
+    color: white; 
+    height: 100px;
+    text-align: center;
+}
+
+.header{
+    width: 1375px;
+    height:px;
+}
